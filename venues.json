@@ -1,0 +1,112 @@
+{
+	"venues": {
+		"v1": {
+			"name": "M.C.G.",
+			"state": "Vic"
+		},
+		"v2": {
+			"name": "Stadium Australia",
+			"state": "NSW"
+		},
+		"v3": {
+			"name": "Gabba",
+			"state": "Qld"
+		},
+		"v4": {
+			"name": "Docklands",
+			"state": "Vic"
+		},
+		"v5": {
+			"name": "Adelaide Oval",
+			"state": "SA"
+		},
+		"v6": {
+			"name": "Subiaco",
+			"state": "WA"
+		},
+		"v7": {
+			"name": "Manuka Oval",
+			"state": "ACT"
+		},
+		"v8": {
+			"name": "Carrara",
+			"state": "Qld"
+		},
+		"v9": {
+			"name": "Kardinia Park",
+			"state": "Vic"
+		},
+		"v10": {
+			"name": "S.C.G.",
+			"state": "NSW"
+		},
+		"v11": {
+			"name": "York Park",
+			"state": "Tas"
+		},
+		"v12": {
+			"name": "Wellington",
+			"state": "NZ"
+		},
+		"v13": {
+			"name": "Bellerive Oval",
+			"state": "Tas"
+		},
+		"v14": {
+			"name": "Sydney Showground",
+			"state": "NSW"
+		},
+		"v15": {
+			"name": "Traeger Park",
+			"state": "NT"
+		},
+		"v16": {
+			"name": "Marrara Oval",
+			"state": "NT"
+		},
+		"v17": {
+			"name": "Cazaly's Stadium",
+			"state": "Qld"
+		},
+		"v18": {
+			"name": "Victoria Park",
+			"state": "Vic"
+		},
+		"v19": {
+			"name": "Western Oval",
+			"state": "Vic"
+		},
+		"v20": {
+			"name": "Waverley Park",
+			"state": "Vic"
+		},
+		"v21": {
+			"name": "Football Park",
+			"state": "SA"
+		},
+		"v22": {
+			"name": "Princes Park",
+			"state": "Vic"
+		},
+		"v23": {
+			"name": "W.A.C.A.",
+			"state": "WA"
+		},
+		"v24": {
+			"name": "Bruce Stadium",
+			"state": "ACT"
+		},
+		"v25": {
+			"name": "Blacktown",
+			"state": "NSW"
+		},
+		"v29": {
+			"name": "Jiangwan Stadium",
+			"state": "China"
+		},
+		"v30": {
+			"name": "Eureka Stadium",
+			"state": "Vic"
+		}
+	}
+}

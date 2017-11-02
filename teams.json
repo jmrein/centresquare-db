@@ -1,0 +1,161 @@
+{
+	"teams": {
+		"ade": {
+			"name": "Adelaide",
+			"state": 3,
+			"started": 1990,
+			"branding": {}
+		},
+		"brl": {
+			"name": "Brisbane",
+			"state": 5,
+			"started": 1997,
+			"branding": {
+				"1": {
+					"code": "brb",
+					"name": "Brisbane",
+					"ended": 1996
+				}
+			}
+		},
+		"car": {
+			"name": "Carlton",
+			"state": 1,
+			"started": 1864,
+			"branding": {}
+		},
+		"col": {
+			"name": "Collingwood",
+			"state": 1,
+			"started": 1892,
+			"branding": {}
+		},
+		"ess": {
+			"name": "Essendon",
+			"state": 1,
+			"started": 1873,
+			"branding": {}
+		},
+		"fre": {
+			"name": "Fremantle",
+			"state": 2,
+			"started": 2011,
+			"branding": {
+				"1": {
+					"code": "frg",
+					"name": "Fremantle",
+					"ended": 2010
+				}
+			}
+		},
+		"gcs": {
+			"name": "Gold Coast",
+			"state": 5,
+			"started": 2009,
+			"branding": {}
+		},
+		"gee": {
+			"name": "Geelong",
+			"state": 1,
+			"started": 1859,
+			"branding": {}
+		},
+		"gws": {
+			"name": "Greater Western Sydney",
+			"state": 4,
+			"started": 2012,
+			"branding": {}
+		},
+		"haw": {
+			"name": "Hawthorn",
+			"state": 1,
+			"started": 1901,
+			"branding": {}
+		},
+		"kan": {
+			"name": "North Melbourne",
+			"state": 1,
+			"started": 2008,
+			"branding": {
+				"1": {
+					"code": "kan",
+					"name": "North Melbourne",
+					"ended": 1999
+				},
+				"2": {
+					"code": "kan",
+					"name": "Kangaroos",
+					"ended": 2007
+				}
+			}
+		},
+		"mel": {
+			"name": "Melbourne",
+			"state": 1,
+			"started": 1858,
+			"branding": {}
+		},
+		"pta": {
+			"name": "Port Adelaide",
+			"state": 3,
+			"started": 1997,
+			"branding": {}
+		},
+		"ric": {
+			"name": "Richmond",
+			"state": 1,
+			"started": 1885,
+			"branding": {}
+		},
+		"stk": {
+			"name": "St Kilda",
+			"state": 1,
+			"started": 1859,
+			"branding": {}
+		},
+		"syd": {
+			"name": "Sydney",
+			"state": 4,
+			"started": 1982,
+			"branding": {
+				"1": {
+					"code": "sms",
+					"name": "South Melbourne",
+					"ended": 1981
+				}
+			}
+		},
+		"wbd": {
+			"name": "Western Bulldogs",
+			"state": 1,
+			"started": 1997,
+			"branding": {
+				"1": {
+					"code": "wbd",
+					"name": "Footscray",
+					"ended": 1996
+				}
+			}
+		},
+		"wce": {
+			"name": "West Coast",
+			"state": 2,
+			"started": 1986,
+			"branding": {}
+		},
+		"ftz": {
+			"name": "Fitzroy",
+			"state": 1,
+			"started": 1882,
+			"ended": 1996,
+			"branding": {}
+		},
+		"uni": {
+			"name": "University",
+			"state": 1,
+			"started": 1859,
+			"ended": 1914,
+			"branding": {}
+		}
+	}
+}
