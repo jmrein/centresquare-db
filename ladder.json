@@ -1,387 +1,5 @@
 {
 	"ladders": {
-		"1994": {
-			"wce": {
-				"name": "West Coast",
-				"won": 16,
-				"lost": 6,
-				"drawn": 0,
-				"points": 64,
-				"percentage": 132.2
-			},
-			"car": {
-				"name": "Carlton",
-				"won": 15,
-				"lost": 7,
-				"drawn": 0,
-				"points": 60,
-				"percentage": 132.5
-			},
-			"kan": {
-				"name": "North Melbourne",
-				"won": 13,
-				"lost": 9,
-				"drawn": 0,
-				"points": 52,
-				"percentage": 129.0
-			},
-			"gee": {
-				"name": "Geelong",
-				"won": 13,
-				"lost": 9,
-				"drawn": 0,
-				"points": 52,
-				"percentage": 114.2
-			},
-			"wbd": {
-				"name": "Western Bulldogs",
-				"won": 13,
-				"lost": 9,
-				"drawn": 0,
-				"points": 52,
-				"percentage": 110.6
-			},
-			"haw": {
-				"name": "Hawthorn",
-				"won": 13,
-				"lost": 9,
-				"drawn": 0,
-				"points": 52,
-				"percentage": 109.1
-			},
-			"mel": {
-				"name": "Melbourne",
-				"won": 12,
-				"lost": 10,
-				"drawn": 0,
-				"points": 48,
-				"percentage": 116.6
-			},
-			"col": {
-				"name": "Collingwood",
-				"won": 12,
-				"lost": 10,
-				"drawn": 0,
-				"points": 48,
-				"percentage": 99.9
-			},
-			"ric": {
-				"name": "Richmond",
-				"won": 12,
-				"lost": 10,
-				"drawn": 0,
-				"points": 48,
-				"percentage": 93.8
-			},
-			"ess": {
-				"name": "Essendon",
-				"won": 11,
-				"lost": 11,
-				"drawn": 0,
-				"points": 44,
-				"percentage": 97.9
-			},
-			"ade": {
-				"name": "Adelaide",
-				"won": 9,
-				"lost": 12,
-				"drawn": 1,
-				"points": 38,
-				"percentage": 86.9
-			},
-			"brl": {
-				"name": "Brisbane",
-				"won": 9,
-				"lost": 13,
-				"drawn": 0,
-				"points": 36,
-				"percentage": 88.4
-			},
-			"stk": {
-				"name": "St Kilda",
-				"won": 7,
-				"lost": 14,
-				"drawn": 1,
-				"points": 30,
-				"percentage": 74.9
-			},
-			"ftz": {
-				"name": "Fitzroy",
-				"won": 5,
-				"lost": 17,
-				"drawn": 0,
-				"points": 20,
-				"percentage": 70.3
-			},
-			"syd": {
-				"name": "Sydney",
-				"won": 4,
-				"lost": 18,
-				"drawn": 0,
-				"points": 16,
-				"percentage": 78.1
-			}
-		},
-		"1995": {
-			"car": {
-				"name": "Carlton",
-				"won": 20,
-				"lost": 2,
-				"drawn": 0,
-				"points": 80,
-				"percentage": 137.8
-			},
-			"gee": {
-				"name": "Geelong",
-				"won": 16,
-				"lost": 6,
-				"drawn": 0,
-				"points": 64,
-				"percentage": 131.9
-			},
-			"ric": {
-				"name": "Richmond",
-				"won": 15,
-				"lost": 6,
-				"drawn": 1,
-				"points": 62,
-				"percentage": 107.9
-			},
-			"ess": {
-				"name": "Essendon",
-				"won": 14,
-				"lost": 6,
-				"drawn": 2,
-				"points": 60,
-				"percentage": 127.6
-			},
-			"wce": {
-				"name": "West Coast",
-				"won": 14,
-				"lost": 8,
-				"drawn": 0,
-				"points": 56,
-				"percentage": 122.9
-			},
-			"kan": {
-				"name": "North Melbourne",
-				"won": 14,
-				"lost": 8,
-				"drawn": 0,
-				"points": 56,
-				"percentage": 114.8
-			},
-			"wbd": {
-				"name": "Western Bulldogs",
-				"won": 11,
-				"lost": 10,
-				"drawn": 1,
-				"points": 46,
-				"percentage": 91.5
-			},
-			"brl": {
-				"name": "Brisbane",
-				"won": 10,
-				"lost": 12,
-				"drawn": 0,
-				"points": 40,
-				"percentage": 95.3
-			},
-			"mel": {
-				"name": "Melbourne",
-				"won": 9,
-				"lost": 13,
-				"drawn": 0,
-				"points": 36,
-				"percentage": 100.7
-			},
-			"col": {
-				"name": "Collingwood",
-				"won": 8,
-				"lost": 12,
-				"drawn": 2,
-				"points": 36,
-				"percentage": 96.8
-			},
-			"ade": {
-				"name": "Adelaide",
-				"won": 9,
-				"lost": 13,
-				"drawn": 0,
-				"points": 36,
-				"percentage": 80.1
-			},
-			"syd": {
-				"name": "Sydney",
-				"won": 8,
-				"lost": 14,
-				"drawn": 0,
-				"points": 32,
-				"percentage": 100.7
-			},
-			"fre": {
-				"name": "Fremantle",
-				"won": 8,
-				"lost": 14,
-				"drawn": 0,
-				"points": 32,
-				"percentage": 92.8
-			},
-			"stk": {
-				"name": "St Kilda",
-				"won": 8,
-				"lost": 14,
-				"drawn": 0,
-				"points": 32,
-				"percentage": 80.3
-			},
-			"haw": {
-				"name": "Hawthorn",
-				"won": 7,
-				"lost": 15,
-				"drawn": 0,
-				"points": 28,
-				"percentage": 94.0
-			},
-			"ftz": {
-				"name": "Fitzroy",
-				"won": 2,
-				"lost": 20,
-				"drawn": 0,
-				"points": 8,
-				"percentage": 58.2
-			}
-		},
-		"1996": {
-			"syd": {
-				"name": "Sydney",
-				"won": 16,
-				"lost": 5,
-				"drawn": 1,
-				"points": 66,
-				"percentage": 123.9
-			},
-			"kan": {
-				"name": "North Melbourne",
-				"won": 16,
-				"lost": 6,
-				"drawn": 0,
-				"points": 64,
-				"percentage": 127.4
-			},
-			"brl": {
-				"name": "Brisbane",
-				"won": 15,
-				"lost": 6,
-				"drawn": 1,
-				"points": 62,
-				"percentage": 125.6
-			},
-			"wce": {
-				"name": "West Coast",
-				"won": 15,
-				"lost": 7,
-				"drawn": 0,
-				"points": 60,
-				"percentage": 125.2
-			},
-			"car": {
-				"name": "Carlton",
-				"won": 15,
-				"lost": 7,
-				"drawn": 0,
-				"points": 60,
-				"percentage": 110.8
-			},
-			"ess": {
-				"name": "Essendon",
-				"won": 14,
-				"lost": 7,
-				"drawn": 1,
-				"points": 58,
-				"percentage": 109.2
-			},
-			"gee": {
-				"name": "Geelong",
-				"won": 13,
-				"lost": 8,
-				"drawn": 1,
-				"points": 54,
-				"percentage": 114.9
-			},
-			"haw": {
-				"name": "Hawthorn",
-				"won": 11,
-				"lost": 10,
-				"drawn": 1,
-				"points": 46,
-				"percentage": 98.5
-			},
-			"ric": {
-				"name": "Richmond",
-				"won": 11,
-				"lost": 11,
-				"drawn": 0,
-				"points": 44,
-				"percentage": 117.4
-			},
-			"stk": {
-				"name": "St Kilda",
-				"won": 10,
-				"lost": 12,
-				"drawn": 0,
-				"points": 40,
-				"percentage": 101.0
-			},
-			"col": {
-				"name": "Collingwood",
-				"won": 9,
-				"lost": 13,
-				"drawn": 0,
-				"points": 36,
-				"percentage": 102.8
-			},
-			"ade": {
-				"name": "Adelaide",
-				"won": 8,
-				"lost": 14,
-				"drawn": 0,
-				"points": 32,
-				"percentage": 96.0
-			},
-			"fre": {
-				"name": "Fremantle",
-				"won": 7,
-				"lost": 15,
-				"drawn": 0,
-				"points": 28,
-				"percentage": 92.3
-			},
-			"mel": {
-				"name": "Melbourne",
-				"won": 7,
-				"lost": 15,
-				"drawn": 0,
-				"points": 28,
-				"percentage": 70.8
-			},
-			"wbd": {
-				"name": "Western Bulldogs",
-				"won": 5,
-				"lost": 16,
-				"drawn": 1,
-				"points": 22,
-				"percentage": 77.3
-			},
-			"ftz": {
-				"name": "Fitzroy",
-				"won": 1,
-				"lost": 21,
-				"drawn": 0,
-				"points": 4,
-				"percentage": 49.5
-			}
-		},
 		"1997": {
 			"stk": {
 				"name": "St Kilda",
@@ -3214,6 +2832,152 @@
 				"drawn": 0,
 				"points": 20,
 				"percentage": 74.3
+			}
+		},
+		"2018": {
+			"wce": {
+				"name": "West Coast",
+				"won": 8,
+				"lost": 1,
+				"drawn": 0,
+				"points": 32,
+				"percentage": 136.7
+			},
+			"ric": {
+				"name": "Richmond",
+				"won": 7,
+				"lost": 2,
+				"drawn": 0,
+				"points": 28,
+				"percentage": 133.1
+			},
+			"mel": {
+				"name": "Melbourne",
+				"won": 6,
+				"lost": 3,
+				"drawn": 0,
+				"points": 24,
+				"percentage": 127.0
+			},
+			"ade": {
+				"name": "Adelaide",
+				"won": 6,
+				"lost": 3,
+				"drawn": 0,
+				"points": 24,
+				"percentage": 125.4
+			},
+			"syd": {
+				"name": "Sydney",
+				"won": 6,
+				"lost": 3,
+				"drawn": 0,
+				"points": 24,
+				"percentage": 114.6
+			},
+			"pta": {
+				"name": "Port Adelaide",
+				"won": 6,
+				"lost": 3,
+				"drawn": 0,
+				"points": 24,
+				"percentage": 108.1
+			},
+			"kan": {
+				"name": "North Melbourne",
+				"won": 5,
+				"lost": 4,
+				"drawn": 0,
+				"points": 20,
+				"percentage": 118.0
+			},
+			"gee": {
+				"name": "Geelong",
+				"won": 5,
+				"lost": 4,
+				"drawn": 0,
+				"points": 20,
+				"percentage": 115.0
+			},
+			"haw": {
+				"name": "Hawthorn",
+				"won": 5,
+				"lost": 4,
+				"drawn": 0,
+				"points": 20,
+				"percentage": 107.2
+			},
+			"col": {
+				"name": "Collingwood",
+				"won": 5,
+				"lost": 4,
+				"drawn": 0,
+				"points": 20,
+				"percentage": 105.6
+			},
+			"gws": {
+				"name": "Greater Western Sydney",
+				"won": 4,
+				"lost": 4,
+				"drawn": 1,
+				"points": 18,
+				"percentage": 102.6
+			},
+			"fre": {
+				"name": "Fremantle",
+				"won": 4,
+				"lost": 5,
+				"drawn": 0,
+				"points": 16,
+				"percentage": 87.5
+			},
+			"wbd": {
+				"name": "Western Bulldogs",
+				"won": 4,
+				"lost": 5,
+				"drawn": 0,
+				"points": 16,
+				"percentage": 79.7
+			},
+			"ess": {
+				"name": "Essendon",
+				"won": 3,
+				"lost": 6,
+				"drawn": 0,
+				"points": 12,
+				"percentage": 89.0
+			},
+			"gcs": {
+				"name": "Gold Coast",
+				"won": 3,
+				"lost": 6,
+				"drawn": 0,
+				"points": 12,
+				"percentage": 73.6
+			},
+			"stk": {
+				"name": "St Kilda",
+				"won": 1,
+				"lost": 7,
+				"drawn": 1,
+				"points": 6,
+				"percentage": 69.7
+			},
+			"brl": {
+				"name": "Brisbane",
+				"won": 1,
+				"lost": 8,
+				"drawn": 0,
+				"points": 4,
+				"percentage": 82.4
+			},
+			"car": {
+				"name": "Carlton",
+				"won": 1,
+				"lost": 8,
+				"drawn": 0,
+				"points": 4,
+				"percentage": 63.3
 			}
 		}
 	}
